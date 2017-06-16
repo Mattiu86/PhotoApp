@@ -134,3 +134,71 @@ D:\PhotoApp\PhotoApp\bin\System.Web.Optimization.xml
 D:\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.dll
 D:\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.pdb
 D:\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+D:\repoGit\PhotoApp\bin\ApplicationInsights.config
+D:\repoGit\PhotoApp\bin\ng.Net Template1.dll.config
+D:\repoGit\PhotoApp\bin\ng.Net Template1.dll
+D:\repoGit\PhotoApp\bin\ng.Net Template1.pdb
+D:\repoGit\PhotoApp\bin\Antlr3.Runtime.dll
+D:\repoGit\PhotoApp\bin\EntityFramework.dll
+D:\repoGit\PhotoApp\bin\EntityFramework.SqlServer.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.Web.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AI.WindowsServer.dll
+D:\repoGit\PhotoApp\bin\Microsoft.ApplicationInsights.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\repoGit\PhotoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\repoGit\PhotoApp\bin\Newtonsoft.Json.dll
+D:\repoGit\PhotoApp\bin\Owin.dll
+D:\repoGit\PhotoApp\bin\System.Net.Http.Formatting.dll
+D:\repoGit\PhotoApp\bin\System.Web.Helpers.dll
+D:\repoGit\PhotoApp\bin\System.Web.Http.dll
+D:\repoGit\PhotoApp\bin\System.Web.Http.Owin.dll
+D:\repoGit\PhotoApp\bin\System.Web.Http.WebHost.dll
+D:\repoGit\PhotoApp\bin\System.Web.Mvc.dll
+D:\repoGit\PhotoApp\bin\System.Web.Optimization.dll
+D:\repoGit\PhotoApp\bin\System.Web.Razor.dll
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.Deployment.dll
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.dll
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.Razor.dll
+D:\repoGit\PhotoApp\bin\WebGrease.dll
+D:\repoGit\PhotoApp\bin\Antlr3.Runtime.pdb
+D:\repoGit\PhotoApp\bin\EntityFramework.xml
+D:\repoGit\PhotoApp\bin\EntityFramework.SqlServer.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AI.Web.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AI.WindowsServer.xml
+D:\repoGit\PhotoApp\bin\Microsoft.ApplicationInsights.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\repoGit\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.xml
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.xml
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\repoGit\PhotoApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\repoGit\PhotoApp\bin\Newtonsoft.Json.xml
+D:\repoGit\PhotoApp\bin\System.Net.Http.Formatting.xml
+D:\repoGit\PhotoApp\bin\System.Web.Helpers.xml
+D:\repoGit\PhotoApp\bin\System.Web.Http.xml
+D:\repoGit\PhotoApp\bin\System.Web.Http.Owin.xml
+D:\repoGit\PhotoApp\bin\System.Web.Http.WebHost.xml
+D:\repoGit\PhotoApp\bin\System.Web.Mvc.xml
+D:\repoGit\PhotoApp\bin\System.Web.Razor.xml
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.xml
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.Deployment.xml
+D:\repoGit\PhotoApp\bin\System.Web.WebPages.Razor.xml
+D:\repoGit\PhotoApp\bin\System.Web.Optimization.xml
+D:\repoGit\PhotoApp\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+D:\repoGit\PhotoApp\obj\Debug\ng.Net Template1.dll
+D:\repoGit\PhotoApp\obj\Debug\ng.Net Template1.pdb

@@ -16,14 +16,12 @@ appHome.controller('homeCtrl', ['$scope', '$http', 'PhotoService', function ($sc
 appHome.factory('PhotoService', ['$http','$filter', function ($http, $filter) {
 
     var Source = {};
-    //Source.items = [];
     Source.allItems = [];
     Source.loadData = function () {
 
         return $http.get('https://jsonplaceholder.typicode.com/photos')
             .then(function (response) {
-                Source.allItems = response.data;
-                //Source.items = $filter('limitTo')(Source.allItems, 25, 0);
+                Source.allItems = response.data;                
             });
     };
 
@@ -41,13 +39,13 @@ appHome.filter('startFrom', function () {
 appHome.filter('mathPower', function () {
     return function (number) {
 
-        var n = parseFloat(number.toFixed(2))
-        var base = Math.floor(n)
+        var float = parseFloat(number.toFixed(2))
+        var base = Math.floor(float)
         var exponent = 0;
-        var splitNumber = n.toString().split(".");
+        var splitNumber = float.toString().split(".");
         if (splitNumber.length > 1)
         {
-            exponent = n.toString().split(".")[1];
+            exponent = float.toString().split(".")[1];
         }
         
         return Math.pow(base, exponent);
@@ -64,12 +62,12 @@ appHome.filter('mathPowerBase', function () {
 appHome.filter('mathPowerExponent', function () {
     return function (number) {
 
-        var n = parseFloat(number.toFixed(2));
-        var base = Math.floor(n);
+        var float = parseFloat(number.toFixed(2));
+        var base = Math.floor(float);
         var exponent = 0;
-        var splitNumber = n.toString().split(".");
+        var splitNumber = float.toString().split(".");
         if (splitNumber.length > 1) {
-            exponent = n.toString().split(".")[1];
+            exponent = float.toString().split(".")[1];
         }
         return exponent;
     }
