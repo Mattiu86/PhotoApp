@@ -1,0 +1,136 @@
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\ApplicationInsights.config
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\ng.Net Template1.dll.config
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\ng.Net Template1.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\ng.Net Template1.pdb
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Antlr3.Runtime.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\EntityFramework.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\EntityFramework.SqlServer.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.Web.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Newtonsoft.Json.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Owin.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Net.Http.Formatting.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Helpers.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.Owin.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.WebHost.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Mvc.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Optimization.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Razor.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.Razor.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\WebGrease.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Antlr3.Runtime.pdb
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\EntityFramework.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\EntityFramework.SqlServer.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.Web.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\Newtonsoft.Json.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Net.Http.Formatting.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Helpers.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.Owin.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Http.WebHost.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Mvc.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Razor.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.WebPages.Razor.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\bin\System.Web.Optimization.xml
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.dll
+c:\users\mateusz.mrozek\documents\visual studio 2015\Projects\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.pdb
+D:\PhotoApp\PhotoApp\bin\ApplicationInsights.config
+D:\PhotoApp\PhotoApp\bin\ng.Net Template1.dll.config
+D:\PhotoApp\PhotoApp\bin\ng.Net Template1.dll
+D:\PhotoApp\PhotoApp\bin\ng.Net Template1.pdb
+D:\PhotoApp\PhotoApp\bin\Antlr3.Runtime.dll
+D:\PhotoApp\PhotoApp\bin\EntityFramework.dll
+D:\PhotoApp\PhotoApp\bin\EntityFramework.SqlServer.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.Web.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.WindowsServer.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.ApplicationInsights.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PhotoApp\PhotoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\PhotoApp\PhotoApp\bin\Newtonsoft.Json.dll
+D:\PhotoApp\PhotoApp\bin\Owin.dll
+D:\PhotoApp\PhotoApp\bin\System.Net.Http.Formatting.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Helpers.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.Owin.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.WebHost.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Mvc.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Optimization.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.Razor.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.Deployment.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.dll
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.Razor.dll
+D:\PhotoApp\PhotoApp\bin\WebGrease.dll
+D:\PhotoApp\PhotoApp\bin\Antlr3.Runtime.pdb
+D:\PhotoApp\PhotoApp\bin\EntityFramework.xml
+D:\PhotoApp\PhotoApp\bin\EntityFramework.SqlServer.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.Web.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AI.WindowsServer.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.ApplicationInsights.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PhotoApp\PhotoApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PhotoApp\PhotoApp\bin\Newtonsoft.Json.xml
+D:\PhotoApp\PhotoApp\bin\System.Net.Http.Formatting.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Helpers.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.Owin.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Http.WebHost.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Mvc.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Razor.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.Deployment.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.WebPages.Razor.xml
+D:\PhotoApp\PhotoApp\bin\System.Web.Optimization.xml
+D:\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.dll
+D:\PhotoApp\PhotoApp\obj\Debug\ng.Net Template1.pdb
+D:\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csprojResolveAssemblyReference.cache
