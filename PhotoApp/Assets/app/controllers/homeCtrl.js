@@ -6,14 +6,14 @@ appHome.controller('homeCtrl', ['$scope', '$http', 'PhotoService', function ($sc
     $scope.PhotoService = PhotoService;
     $scope.currentPage = 0;
     $scope.pageSize = 25;
-    $scope.numbers= [4,3.5,4.1324,2.1]
+    $scope.numbers = [4, 3.5, 4.1324, 2.1, 0, -2, -3.3, -4.2]
 
     $scope.pages = function () {
         return Math.ceil($scope.PhotoService.allItems.length / $scope.pageSize);
     }
 }])
 
-appHome.factory('PhotoService', ['$http','$filter', function ($http, $filter) {
+appHome.factory('PhotoService', ['$http', '$filter', function ($http, $filter) {
 
     var Source = {};
     Source.allItems = [];
@@ -21,7 +21,7 @@ appHome.factory('PhotoService', ['$http','$filter', function ($http, $filter) {
 
         return $http.get('https://jsonplaceholder.typicode.com/photos')
             .then(function (response) {
-                Source.allItems = response.data;                
+                Source.allItems = response.data;
             });
     };
 
@@ -43,19 +43,30 @@ appHome.filter('mathPower', function () {
         var base = Math.floor(float)
         var exponent = 0;
         var splitNumber = float.toString().split(".");
-        if (splitNumber.length > 1)
-        {
-            exponent = float.toString().split(".")[1];
+
+        if (splitNumber.length > 0) {
+            base = splitNumber[0];
         }
-        
+        if (splitNumber.length > 1) {
+            exponent = splitNumber[1];
+        }
+
         return Math.pow(base, exponent);
     }
 })
 
 appHome.filter('mathPowerBase', function () {
     return function (number) {
-               
-        return Math.floor(number);       
+
+        var float = parseFloat(number.toFixed(2))
+        var base = Math.floor(float)
+        var splitNumber = float.toString().split(".");
+
+        if (splitNumber.length > 0) {
+            base = splitNumber[0];
+        }
+
+        return base;
     }
 })
 
@@ -63,11 +74,10 @@ appHome.filter('mathPowerExponent', function () {
     return function (number) {
 
         var float = parseFloat(number.toFixed(2));
-        var base = Math.floor(float);
         var exponent = 0;
         var splitNumber = float.toString().split(".");
         if (splitNumber.length > 1) {
-            exponent = float.toString().split(".")[1];
+            exponent = splitNumber[1];
         }
         return exponent;
     }
